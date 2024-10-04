@@ -4,7 +4,7 @@
 [![OpenSSF Scorecard][23]][24]
 
 Azure AD Workload Identity is the next iteration of [Azure AD Pod Identity][1] that enables Kubernetes applications to access Azure cloud resources securely with [Azure Active Directory][2] based on annotated [service accounts][3].
-
+s
 | Kubernetes Version | Supported |
 | ------------------ | --------- |
 | 1.30               | ✅         |
